@@ -1,0 +1,4 @@
+name: BungeeBouncerClient
+main: dk.elera.damnation.bungeebouncer.BungeeBouncerClient
+version: 1.0
+author: Faua

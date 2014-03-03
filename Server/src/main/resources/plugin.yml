@@ -1,0 +1,4 @@
+name: BungeeBouncerServer
+main: dk.elera.damnation.bungeebouncer.BungeeBouncerServer
+version: 1.0
+author: Faua

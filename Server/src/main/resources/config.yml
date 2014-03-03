@@ -1,0 +1,7 @@
+timeConstants:
+  day: 0
+  noon: 6000
+  evening: 12000
+  night: 18000
+  sunset: 13000
+  sunrise: 23000
